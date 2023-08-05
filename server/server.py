@@ -9,7 +9,7 @@ import os
 # Modules
 import BTCPubKeyHash
 
-# Log everthing to stdout for now
+# Log everything to stdout for now
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 # Load sever config
